@@ -1,5 +1,8 @@
 .card{
-    width: 20vw;
+    width: auto;
     margin: 34px;
-    height: 330px;
+    height: 33vh;
+    padding: 33px;
+    border: 2px solid black;
+
 }
